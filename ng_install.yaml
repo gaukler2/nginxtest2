@@ -16,4 +16,4 @@ spec:
       - name: nginx
         image: nginx:1.14
         ports:
-        - containerPort: 87
+        - containerPort: 92
